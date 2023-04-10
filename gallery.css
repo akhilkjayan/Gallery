@@ -1,0 +1,15 @@
+.c{
+    width: 23%;
+    height: 651px;
+    color: white;
+    background-color: black;
+    border: 6px gray solid;
+    float: left;
+    padding:9px ;
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 100%;
+}
